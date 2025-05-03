@@ -49,3 +49,6 @@ brew install sfml
 
 # Build the project
 g++ -std=c++17 -o OOCatcher src/*.cpp -lsfml-graphics -lsfml-window -lsfml-system
+
+
+# This project was developed in collaboration with Replit, a platform that supported the implementation and testing of key features during development. 
