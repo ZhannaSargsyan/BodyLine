@@ -1,6 +1,9 @@
+-- This project was developed and tested using Replit to simulate and debug the anthropomorphic body movements in C++ --
+
 # OOCatcher Project
 
-An implementation of an anthropomorphic body simulation that can catch objects and throw snowballs.
+An implementation of an anthropomorphic body simulation that can catch objects and throw snowballs. This project fulfills the requirements of CS 323 Advanced OOP at the American University of Armenia.
+
 ## Overview
 
 The OOCatcher project implements an anthropomorphic body using line segments and generates a sequence of moves to:
@@ -49,7 +52,3 @@ brew install sfml
 
 # Build the project
 g++ -std=c++17 -o OOCatcher src/*.cpp -lsfml-graphics -lsfml-window -lsfml-system
-
-
-### 
-This project was developed in collaboration with Replit, a platform that supported the implementation and testing of key features during development. 
